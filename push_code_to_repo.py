@@ -7,7 +7,7 @@ query='Analyze the code and suggest the changes required in the files which have
 payload = {
     'query': query,
     'REPO_OWNER': 'kaushalm',
-    'REPO_NAME': 'JAVA'
+    'REPO_NAME': 'GenAI'
 }
 
 headers = {
